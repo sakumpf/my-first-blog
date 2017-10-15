@@ -25,7 +25,7 @@ SECRET_KEY = '_8-2ja8gyq&ojgj5uakb8l6bizs17e@v%^wnpiiotl5k8f(^!r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1","saritak.pythonanyhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1","saritak.pythonanywhere.com"]
 
 
 # Application definition
